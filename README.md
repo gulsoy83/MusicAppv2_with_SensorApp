@@ -1,5 +1,5 @@
 # MusicAppv2_with_SensorApp
-[Music App] (https://github.com/gulsoy83/MusicApp) arkaplanda müzik çalarken, sensör uygulaması ise cihazın konumunu ivmeölçer ve ışık sensörü ile analiz ederek müziğin sesini değiştirir.
+[Music App](https://github.com/gulsoy83/MusicApp) arkaplanda müzik çalarken, sensör uygulaması ise cihazın konumunu ivmeölçer ve ışık sensörü ile analiz ederek müziğin sesini değiştirir.
 
 Cihaz (aydınlıkta ise) masa üstündeyse ses kapanır.
 Cihaz aydınlıkta ve hareket halinde ise ses açılır.
