@@ -9,9 +9,9 @@ Cihaz cepte ise yani karanlık bir ortamda ise (hareketli veya hareketsiz) ses a
 
 * <img width="211" alt="ss" src="https://github.com/gulsoy83/MusicAppv2_with_SensorApp/assets/46426033/b96c01db-5f15-4c7a-936d-c0f429cc70c1">
 
-* ![Screenshot_20230828-221647_Sensor App](https://github.com/gulsoy83/MusicAppv2_with_SensorApp/assets/46426033/3a748bcd-6a48-4acc-aa1c-18e42f7c8d8a)
-* ![Screenshot_20230828-221846_Sensor App](https://github.com/gulsoy83/MusicAppv2_with_SensorApp/assets/46426033/ddc22020-788a-452a-aca0-b580a53e1247)
-* ![Screenshot_20230828-222043_Sensor App](https://github.com/gulsoy83/MusicAppv2_with_SensorApp/assets/46426033/564caad7-fdaf-4227-a64c-f2eacd4c4548)
+* <img src="https://github.com/gulsoy83/MusicAppv2_with_SensorApp/assets/46426033/3a748bcd-6a48-4acc-aa1c-18e42f7c8d8a" width="206" />
+* <img src="https://github.com/gulsoy83/MusicAppv2_with_SensorApp/assets/46426033/ddc22020-788a-452a-aca0-b580a53e1247" width="206" />
+* <img src="https://github.com/gulsoy83/MusicAppv2_with_SensorApp/assets/46426033/564caad7-fdaf-4227-a64c-f2eacd4c4548" width="206" />
 
 
 
